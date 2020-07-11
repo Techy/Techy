@@ -1,6 +1,3 @@
-<!--
-**techdude1-dev/techdude1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
 <p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
